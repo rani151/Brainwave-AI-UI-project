@@ -1,9 +1,9 @@
 #🚀 Brainwave  
 
 ![Screenshot 2024-04-05 004642](https://github.com/rani151/Brainwave-AI-UI-project/assets/150732920/61ab69e5-7215-4b81-b2e0-8f18ffe7667a)
-")
 
-#[Link Text](URL "https://rani-brainwave.netlify.app/")
+
+#(URL "https://rani-brainwave.netlify.app/")
 
 📖 **Description**: Brainwave - Modern UI/UX website, developed using React.js and Tailwind CSS, exemplifies modern UI/UX principles. Its sleek design, seamless animations, and overall user experience set a high standard, serving as a reference or inspiration for future modern applications or websites in general.
 
